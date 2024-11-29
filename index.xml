@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>/BadgersCorner-Test/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/BadgersCorner-Test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/posts/firstpost/</link>
+      <link>/BadgersCorner-Test/posts/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/firstpost/</guid>
+      <guid>/BadgersCorner-Test/posts/firstpost/</guid>
       <description>&lt;p&gt;First Post&lt;/p&gt;
 &lt;p&gt;I have some content!&lt;/p&gt;
 &lt;blockquote&gt;
